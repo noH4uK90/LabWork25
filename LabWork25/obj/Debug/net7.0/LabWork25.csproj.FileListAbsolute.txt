@@ -1,0 +1,15 @@
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\bin\Debug\net7.0\LabWork25.exe
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\bin\Debug\net7.0\LabWork25.deps.json
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\bin\Debug\net7.0\LabWork25.runtimeconfig.json
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\bin\Debug\net7.0\LabWork25.dll
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\bin\Debug\net7.0\LabWork25.pdb
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.csproj.AssemblyReference.cache
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.AssemblyInfoInputs.cache
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.AssemblyInfo.cs
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.csproj.CoreCompileInputs.cache
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.dll
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\refint\LabWork25.dll
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.pdb
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\LabWork25.genruntimeconfig.cache
+E:\projects\labs\mdk01.04\LabWork25\LabWork25\obj\Debug\net7.0\ref\LabWork25.dll
